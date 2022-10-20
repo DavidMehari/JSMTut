@@ -1,5 +1,5 @@
 import { useNavigation } from '@react-navigation/native';
-import { View, Text, Image } from 'react-native';
+import { View, Image } from 'react-native';
 import { COLORS, SHADOWS, SIZES, assets } from '../constants';
 import { CircleButton, RectButton } from './Button';
 import { SubInfo, EthPrice, NFTTitle } from './SubInfo';
